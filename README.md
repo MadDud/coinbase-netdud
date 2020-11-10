@@ -24,3 +24,7 @@ Coinbase netdud - v1.0
     } 
 }
 ```
+
+# Credit
+
+Inspired by https://gist.github.com/alferz/4ff1433ae43d15b2b4a26c51a3ec569c
